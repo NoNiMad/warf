@@ -1,0 +1,14 @@
+{
+  "name": "warf",
+  "version": "1.0.0",
+  "description": "Wait, Another RESTful Framework?!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julien Rouault",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "server": "^1.0.3"
+  }
+}
